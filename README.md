@@ -1,15 +1,31 @@
-# ⚙️ Automatic Mecânica Premium - Tema WordPress
+# ⚙️ Automatic Tema - Tema WordPress Personalizado
 
-Este é o código-fonte do tema personalizado para o site **Automatic Mecânica Premium**, desenvolvido para funcionar exclusivamente na plataforma WordPress.
+## 📸 Visão Geral
+
+Este é o código-fonte do tema personalizado para o site **Automatic Mecânica Premium**.
+
+O tema foi desenvolvido com foco em performance e uma estética moderna, conforme visto na imagem abaixo:
+
+> **[CAPTURA DE TELA DO SITE AQUI: Automatic Site.png]**
+> *Tema WordPress profissional para Automatic - Serviços Automotivos. Especializado em câmbio automático com design moderno e responsivo.*
 
 ---
 
-## ✨ Recursos do Tema
+## ✨ Detalhes e Recursos
+
+| Detalhe | Valor |
+| :--- | :--- |
+| **Nome do Tema** | Automatic Tema |
+| **Versão Atual** | 1.0.0 |
+| **URL do Tema** | https://herehost.com.br/automatic/ |
+| **Domínio de Texto** | automatic-tema |
+
+### Principais Recursos
 
 * **Design Premium:** Estética moderna e focada em performance para serviços automotivos de alta qualidade.
-* **Responsividade:** O tema é otimizado para ser visualizado em todos os dispositivos (desktop, tablet e mobile).
-* **Integração WordPress:** Construído seguindo as melhores práticas do WordPress para facilitar a gestão de conteúdo.
-* **Fácil Customização:** Estrutura clara para personalizações futuras.
+* **Responsividade:** Otimizado para funcionar perfeitamente em todos os dispositivos (desktop, tablet e mobile).
+* **Compatibilidade WP:** Requer a versão 6.0 ou superior do WordPress.
+* **Compatibilidade PHP:** Requer a versão 7.4 ou superior do PHP.
 
 ---
 
@@ -17,36 +33,33 @@ Este é o código-fonte do tema personalizado para o site **Automatic Mecânica 
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas e linguagens:
 
-* **Linguagem de Programação:** **PHP** (a linguagem nativa do WordPress).
-* **Plataforma:** **WordPress**.
-* **Ambiente de Desenvolvimento:** **Visual Studio Code (VS Code)**.
-* **Estruturas de Frontend:** (Adicionar aqui, se for o caso: Exemplo: HTML5, CSS3, JavaScript, Bootstrap/Tailwind CSS).
-* **Logotipo/Marca:**  (Incorporado ao tema como um ativo).
+* **Plataforma Principal:** **WordPress**.
+* **Linguagem de Programação:** **PHP**.
+* **Editor de Código:** **Visual Studio Code (VS Code)**.
+* **Estruturas de Frontend:** (Adicione aqui as tecnologias de frontend, ex: HTML5, CSS3, JavaScript, se aplicável).
 
 ---
 
-## 🚀 Como Usar/Instalar
+## 🚀 Como Instalar e Usar
 
-Para colocar este tema em funcionamento no seu domínio, siga os passos abaixo:
+Para importar e ativar este tema no seu domínio WordPress:
 
 1.  **Acesso ao Servidor:** Utilize um cliente FTP ou o Gerenciador de Arquivos do seu CPanel para acessar o diretório de instalação do seu WordPress.
 2.  **Localize a Pasta de Temas:** Navegue até o caminho `wp-content/themes/`.
-3.  **Upload do Tema:** Faça o upload de todo o conteúdo deste repositório (a pasta do tema) para dentro do diretório `themes`.
+3.  **Upload do Tema:** Faça o upload completo da pasta **`automatic-tema`** (o conteúdo deste repositório) para dentro do diretório `themes`.
 4.  **Acesso ao Painel WP:** Faça login no painel administrativo do seu WordPress (`/wp-admin`).
 5.  **Ativação:** Navegue até **Aparência** > **Temas**.
-6.  **Ativar:** Localize o tema **"Automatic Mecânica Premium"** (ou o nome que você definiu na sua pasta) e clique em **Ativar**.
-7.  **Configuração:** Prossiga com qualquer configuração inicial de plugins ou *widgets* necessárias para o tema.
+6.  Localize o tema **"Automatic Tema"** e clique em **Ativar**.
 
 ---
 
-## 📝 Contribuições e Manutenção
+## 📝 Autoria e Licença
 
-* **Desenvolvedor Principal:** [Seu Nome ou Nome da Agência]
-* **Versão Atual:** 1.0.0 (Sugestão - Ajuste a versão conforme seu projeto)
-* **Licença:** [Exemplo: GPLv2 ou Outra Licença]
+| Item | Detalhe |
+| :--- | :--- |
+| **Autor do Tema** | Gustavo Sanches Pavani |
+| **URL do Autor** | https://herehost.com.br/automatic/ |
+| **Licença** | GPL v2 ou posterior |
+| **URL da Licença** | https://www.gnu.org/licenses/gpl-2.0.html |
 
-Qualquer dúvida ou necessidade de manutenção, entre em contato com o desenvolvedor responsável.
-
-***
-
-*O tema é projetado para **Mecânica Premium Automatic** e contém código e ativos protegidos por direitos autorais.*
+Este tema está disponível sob a licença **GPL v2 ou posterior**.
