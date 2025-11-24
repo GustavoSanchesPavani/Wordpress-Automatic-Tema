@@ -6,8 +6,8 @@ Este é o código-fonte do tema personalizado para o site **Automatic Mecânica 
 
 O tema foi desenvolvido com foco em performance e uma estética moderna, conforme visto na imagem abaixo:
 
-> **[CAPTURA DE TELA DO SITE AQUI: Automatic Site.png]**
-> *Tema WordPress profissional para Automatic - Serviços Automotivos. Especializado em câmbio automático com design moderno e responsivo.*
+![Captura de Tela do Site Automatic Mecânica Premium](Automatic-Site.png) 
+*Tema WordPress profissional para Automatic - Serviços Automotivos. Especializado em câmbio automático com design moderno e responsivo.*
 
 ---
 
